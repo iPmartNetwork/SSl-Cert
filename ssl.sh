@@ -3,7 +3,7 @@
 echo
 echo "=== iPmart.Shop ==="
 echo "=== https://github.com/ipmartnetwork ==="
-echo "=== Get Easy SSl Cert ==="
+echo "=== SSL Certificate Helper ==="
 echo
 sleep 3
 
