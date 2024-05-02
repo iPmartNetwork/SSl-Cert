@@ -1,8 +1,8 @@
 #!/bin/bash -e
 
 echo
-echo "=== ========= ==="
-echo "=== https://github.com/iPmartNetwork ==="
+echo "=== azadrah.org ==="
+echo "=== https://github.com/azadrahorg ==="
 echo "=== SSL Certificate Helper ==="
 echo
 sleep 3
