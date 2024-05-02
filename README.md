@@ -25,7 +25,7 @@
 
 ## نصب
 ```
-wget  bash -c "$(curl -L https://raw.githubusercontent.com/ipmartnetwork/SSL-Cert/main/ssl.sh)"
+wget  bash -c "$(curl -L https://raw.githubusercontent.com/iPmartNetwork/SSl-Cert/main/sslcert.sh)"
 ```
 
 
