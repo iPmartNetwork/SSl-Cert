@@ -1,7 +1,8 @@
 #!/bin/bash -e
 
 echo
-echo "***** https://github.com/ipmartnetwork *****"
+echo "=== iPmart.Shop ==="
+echo "=== https://github.com/ipmartnetwork ==="
 echo "=== Get Easy SSl Cert ==="
 echo
 sleep 3
