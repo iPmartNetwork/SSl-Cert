@@ -24,7 +24,7 @@
 
 
 ## نصب
-```
+```bash
 bash -c "$(curl -L https://raw.githubusercontent.com/iPmartNetwork/SSl-Cert/main/sslcert.sh)"
 ```
 
